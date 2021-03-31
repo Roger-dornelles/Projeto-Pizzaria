@@ -2,3 +2,4 @@
 Projeto criado no curso Javascript.
 tela de cardapio de algumas pizzas usando Javascript, Html e Css.
 Tela criada para desktop e mobile.
+Ao clicar na pizza vai abrir um card onde pode adicionar quantas pizzas quiser do sabor selecionado e remover a pizza do carrinho se desejar.
